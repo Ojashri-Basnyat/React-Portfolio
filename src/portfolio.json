@@ -1,0 +1,64 @@
+[
+    {
+    "id": 1,
+    "name": "Social Network API",
+    "image": "https://github.com/Ojashri-Basnyat/Social-Network-API/raw/main/assets/demoscreenshot.png",
+    "github": "https://github.com/Ojashri-Basnyat/Social-Network-API"
+    },
+    {
+        "id": 2,
+        "name": "Code Wizz Quiz",
+        "image": "https://github.com/Ojashri-Basnyat/week-4-challenge/raw/main/assets/images/Screen%20Shot%202021-01-13%20at%208.05.15%20PM.png",
+        "github": "https://github.com/Ojashri-Basnyat/week-4-challenge",
+        "deploy": "https://ojashri-basnyat.github.io/week-4-challenge/"
+        },
+    {
+        "id": 3,
+        "name": "Work Day Scheduler",
+        "image": "https://github.com/Ojashri-Basnyat/week-5-challenge/raw/main/assets/images/Screen%20Shot%202021-01-16%20at%205.04.32%20PM.png",
+        "github": "https://github.com/Ojashri-Basnyat/week-5-challenge",
+        "deploy": "https://ojashri-basnyat.github.io/week-5-challenge/"
+        },
+      {
+        "id": 4,
+        "name": "Weather Forecast",
+        "image": "https://github.com/Ojashri-Basnyat/week-6-challenge/raw/main/assets/images/page_sc.png",
+        "github": "https://github.com/Ojashri-Basnyat/week-6-challenge",
+        "deploy": "https://ojashri-basnyat.github.io/week-6-challenge/"
+        },
+    {
+        "id": 5,
+        "name": "Cocktail Map",
+        "image": "https://github.com/uoft-project1-group5/cocktail-map/raw/main/Assets/images/demo.gif",
+        "github": "https://github.com/uoft-project1-group5/cocktail-map",
+        "deploy": "https://uoft-project1-group5.github.io/cocktail-map/"
+        },
+    {
+        "id": 6,
+        "name": "Team Profile Generator",
+        "image": "https://github.com/Ojashri-Basnyat/Gen-Team-Profile/raw/main/images/team-page-generator.png",
+        "github": "https://github.com/Ojashri-Basnyat/Gen-Team-Profile",
+        "deploy": "https://ojashri-basnyat.github.io/Gen-Team-Profile/docs/index.html"
+        },
+    {
+        "id": 7,
+        "name": "Note Taker",
+        "image": "https://github.com/Ojashri-Basnyat/Note-Taker/raw/main/public/assets/images/homepage.png",
+        "github": "https://github.com/Ojashri-Basnyat/Note-Taker",
+        "deploy": "https://ojashri-note-taker.herokuapp.com/"
+        },  
+     {
+        "id": 8,
+        "name": "Simply Unused",
+        "image": "https://user-images.githubusercontent.com/72447285/112763187-6a57ae00-8fd1-11eb-9885-fbba7501fdf0.gif",
+        "github": "https://github.com/Bootcamp-Group5/simply-unused",
+        "deploy": "https://simply-unused.herokuapp.com/login"
+        }, 
+    {
+       "id": 9,
+       "name": "Password Generator",
+       "image": "https://github.com/Ojashri-Basnyat/Week-3-challenge/raw/main/Assets/03-javascript-homework-demo.png",
+       "github": "https://github.com/Ojashri-Basnyat/Week-3-challenge",
+       "deploy": "https://ojashri-basnyat.github.io/Week-3-challenge/"
+     } 
+]
