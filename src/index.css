@@ -4,12 +4,17 @@
       'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
       sans-serif;
     -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+    -moz-osx-font-smoothing: grayscale; 
+    color: white;
   }
   
   code {
     font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
       monospace;
+  }
+
+  label {
+    color: white;
   }
  
   :root {
@@ -22,7 +27,7 @@
   }
   
   *  {
-    background: var(--shade-3);
+    background: var(--shade-2);
   }
   
   a {
@@ -40,13 +45,15 @@
   h1 {
     margin: auto 30px; 
     padding: 10px;
-    color: var(--shade-4);
+    color: var(--shade-3);
     font-weight: bold;
   }
   
   #header {
-    display: flex;
-    margin-left: 5px;
+    padding: 15px 6% 15px 0;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-left: 755px;
   }
   
   #navigation {
@@ -57,7 +64,7 @@
   }
   
   #navigation a {
-    color: var(--shade-1);
+    color: var(--shade-3);
     padding-left: 1em;
     font-weight: bold;
     text-decoration: none;
@@ -65,13 +72,13 @@
   }
   
   .card {
-    background-color: var(--shade-2);
+    background-color: var(--shade-1);
     border-radius: 5px;
     height: 400px;
     margin: 2rem;
     position: relative;
     width: 400px;
-    box-shadow: 0 2px 2px var(--shade-4), 0 6px 12px var(--shade-4);
+    box-shadow: 0 2px 2px var(--shade-1), 0 6px 12px var(--shade-2);
   }
   
   .card .img-container {
@@ -86,7 +93,7 @@
     width: 100%;
     padding: 25px;
     margin-bottom: 20px;
-    background-color: var(--shade-2);
+    background-color: var(--shade-1);
   }
   
   .card .content {
@@ -98,20 +105,20 @@
   }
   
   #project-icon {
-    background-color: var(--shade-2);
+    background-color: var(--shade-1);
     padding: 5px;
   }
   
   #topics {
     font-size: small;
     font-style: italic;
-    color: var(--shade-4);
+    color: var(--shade-1);
   }
   
   #card-title {
     margin-top: 10px;
     color: var(--shade-4);
-    text-shadow: 1px 1px 6px var(--shade-5);
+    text-shadow: 1px 1px 6px var(--shade-1);
   }
   
   .wrapper {
@@ -139,7 +146,7 @@
   }
   
   #about-section p {
-    background-color: var(--shade-3);
+    background-color: var(--shade-1);
     color: var(--onyx);
   }
   
@@ -159,30 +166,30 @@
   }
   
   #front-back h2 {
-    color: var(--shade-4);
+    color: var(--shade-3);
   }
   
   #front-back p {
-    background-color: var(--shade-3);
+    background-color: var(--shade-2);
   }
   
   #resume p {
     background-color: var(--shade-3);
-    color: var(--onyx);
+    color: var(--shade-3);
     margin-top: 5px;
   }
   
   #footer {
-    background-color: var(--shade-4);
+    background-color: var(--shade-3);
   }
   
   #footer .icon {
-    background-color: var(--shade-4);
+    background-color: var(--shade-3);
     margin-top: 20px;
   }
   
   #footer p {
-    background-color: var(--shade-4);
+    background-color: var(--shade-2);
     margin-top: 8px;
   }
   
@@ -192,5 +199,5 @@
   }
   
   #react-icon {
-    background-color: var(--shade-4);
+    background-color: var(--shade-2);
   }
