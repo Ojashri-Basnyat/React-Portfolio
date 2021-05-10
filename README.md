@@ -40,6 +40,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Deployed Link
 
+https://github.com/Ojashri-Basnyat/React-Portfolio
 
 
 
